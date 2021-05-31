@@ -1,0 +1,23 @@
+package com.nt.innerClass;
+
+public class Example2 {
+	static int a = 10;
+	int x = 20;
+	private  int y = 30;
+	
+	static class A2{
+
+	public static void main(String[] args) {
+		System.out.println(a);
+	//	System.out.println(x);
+	//	System.out.println(y);
+		
+		Example2 e =  new Example2();
+		System.out.println(e.a);
+		System.out.println(e.x);
+		System.out.println(e.y);
+	}
+
+	}
+
+}
