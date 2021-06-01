@@ -1,0 +1,5 @@
+98
+a
+85.2f
+true
+akshay
