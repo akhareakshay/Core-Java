@@ -27,3 +27,6 @@ public class DataOutputtStream {
 	}
 
 }
+
+
+//After run the program, check the .txt file property.. it will be addition of the datatypes 
