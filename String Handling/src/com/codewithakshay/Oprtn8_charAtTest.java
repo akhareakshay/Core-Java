@@ -1,6 +1,6 @@
 package com.codewithakshay;
 
-public class Oprtn8_charAt {
+public class Oprtn8_charAtTest {
 
 	/*
 	 * charAt() method returns the character present in the given index position..
