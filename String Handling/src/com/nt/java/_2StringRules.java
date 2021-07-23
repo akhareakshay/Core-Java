@@ -48,7 +48,7 @@ public class _2StringRules {
 		
 		String s10 = new String("null");
 		System.out.println("\nchars : "+s10);
-		System.out.println("\ns10 length : "+s10.length());]
+		System.out.println("\ns10 length : "+s10.length());
 		
 	}
 
