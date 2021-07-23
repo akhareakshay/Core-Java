@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Oprtn1_IsEmptyTest {
 
+	/*
+	 * In this program, we are going to see the use of isEmpty()
+	 */
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
