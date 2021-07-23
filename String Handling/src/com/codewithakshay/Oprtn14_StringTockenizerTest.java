@@ -2,7 +2,7 @@ package com.codewithakshay;
 
 import java.util.StringTokenizer;
 
-public class Oprtn14_StringTockenizer {
+public class Oprtn14_StringTockenizerTest {
 
 	/*
 	 * StringTokenizer have 3 constructors
