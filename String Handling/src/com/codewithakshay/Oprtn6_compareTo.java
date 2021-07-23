@@ -5,7 +5,7 @@ public class Oprtn6_compareTo {
 	/*
 	 * compareTo() compares given string lexicographically
 	 * 
-	 * 
+	 * compareToIgnoreCase() checks the given string without any case
 	 */
 
 	public static void main(String[] args) {
