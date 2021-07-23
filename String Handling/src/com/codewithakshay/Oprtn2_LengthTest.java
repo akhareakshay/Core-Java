@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Oprtn2_LengthTest {
 
+	/*
+	 * In this program, we are going to see the use of length()
+	 */
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
