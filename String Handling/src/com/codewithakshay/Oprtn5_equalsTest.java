@@ -1,6 +1,6 @@
 package com.codewithakshay;
 
-public class Oprtn4_equalsTest {
+public class Oprtn5_equalsTest {
 
 	/*
 	 * equals() and equalsIgnoreCase() method Implementation
