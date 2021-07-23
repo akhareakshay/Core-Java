@@ -1,6 +1,6 @@
 package com.codewithakshay;
 
-public class Oprtn6_compareTo {
+public class Oprtn6_compareToTest {
 	
 	/*
 	 * compareTo() compares given string lexicographically
