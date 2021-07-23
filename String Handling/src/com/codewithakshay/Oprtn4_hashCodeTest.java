@@ -1,6 +1,10 @@
 package com.codewithakshay;
 
 public class Oprtn4_hashCodeTest {
+	
+	/*
+	 * hashCode() implementation
+	 */
 
 	public static void main(String[] args) {
 
@@ -56,9 +60,6 @@ public class Oprtn4_hashCodeTest {
 		System.out.println(System.identityHashCode(e2));
 		System.out.println(System.identityHashCode(e3));
 		System.out.println();
-		
-		Oprtn4_hashCodeTest ohct = new Oprtn4_hashCodeTest();
-		System.out.println(ohct.hashCode());
 
 	}
 
