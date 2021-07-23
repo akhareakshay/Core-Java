@@ -1,6 +1,6 @@
 package com.codewithakshay;
 
-public class Oprtn11_startsWith_endsWith {
+public class Oprtn11_startsWith_endsWithTest {
 
 	/*
 	 * startsWith(String s) returns true if the given param string is available at
