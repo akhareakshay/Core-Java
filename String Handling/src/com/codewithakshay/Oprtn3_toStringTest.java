@@ -22,7 +22,7 @@ public class Oprtn3_toStringTest {
 
 		String s3 = null;
 		System.out.println("s3 : " + s3); // null
-		System.out.println("s3 : " + s3.toString()); // nullPointerException
+		// System.out.println("s3 : " + s3.toString()); // nullPointerException
 		System.out.println();
 
 		/*
